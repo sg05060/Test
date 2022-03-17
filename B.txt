@@ -1,1 +1,1 @@
-B file
+B file changed
