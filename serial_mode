@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T07:29:23.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" version="18.1.1" etag="zezs5ebamQYI00z4jZTX" type="github"><diagram id="ztgAePzSVGKjAK4lnNbN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:41:57.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="vSxfd4u2lioyFCb-AuGs" version="18.1.1" type="github">
+  <diagram id="ztgAePzSVGKjAK4lnNbN" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="370" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-2" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-3" value="Memory_module" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="262.5" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="186" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-6" value="Serial_mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-7" value="Systolic_mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-8" value="Custom_mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-10" value="Computation_module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="186" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFQbD_bb9h__XOhPRmDY-11" value="Display module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="300" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
