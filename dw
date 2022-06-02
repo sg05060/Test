@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T08:35:46.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" version="18.1.1" etag="u4IKNqnIsKCuVQA8-uTJ" type="github"><diagram id="H2TLVsZelHmQuKLtIVVd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-02T08:39:23.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="CnvwEqRwpYDLj4Skb-0F" version="18.1.1" type="github">
+  <diagram id="H2TLVsZelHmQuKLtIVVd" name="Page-1">
+    <mxGraphModel dx="788" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mmBSGLF5dKl3Xr8eBgE0-1" value="Weight_&lt;br&gt;PreLoader" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mmBSGLF5dKl3Xr8eBgE0-2" value="Systolic&lt;br&gt;Array" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="232" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mmBSGLF5dKl3Xr8eBgE0-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mmBSGLF5dKl3Xr8eBgE0-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;B&lt;sub style=&quot;font-size: 9px;&quot;&gt;11&amp;nbsp;&lt;/sub&gt;B&lt;sub style=&quot;font-size: 9px;&quot;&gt;12&amp;nbsp;&lt;/sub&gt;B&lt;sub style=&quot;font-size: 9px;&quot;&gt;13 ...&amp;nbsp;&lt;/sub&gt;B&lt;sub style=&quot;font-size: 9px;&quot;&gt;33&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="236" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
